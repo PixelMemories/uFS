@@ -4,7 +4,6 @@
  *	File:	rufs.c
  *
  *  Richard Li - rl902
- *  Yuvanshankar Mahesh- ym569
  */
 
 #define FUSE_USE_VERSION 26
