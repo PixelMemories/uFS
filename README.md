@@ -1,5 +1,5 @@
 # NOTES
-Please ensure there is no corrupted DISKFILE present before mounting. Our program is a
+Please ensure there is no corrupted DISKFILE present before mounting. The program is a
 little finicky and may fail its getattr or readdir leading to a mounting failure. If it does,
 please end the mounting process, run a make clean and rm DISKFILE, then remount and
 the benchmarks should run.
